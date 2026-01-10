@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I’m Mithil Damani
 
-<!--
-**mithildamani256/mithildamani256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Sceince student at the University of Waterloo.
 
-Here are some ideas to get you started:
+💼 Previously Software Engineer Intern at StackAdapt, WealthyPlanet etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻 Side-project enthusiast who loves contributing to open-source projects.
+
+🚀 Extremely passionate about designing and building scalable web applications, with industry experience using React, TypeScript, GraphQL, and Ruby on Rails.
+
+🌱 Currently grinding LeetCode in Python.
+
+🏋️ Loves working out and playing tennis.
+
+📫 Feel free to reach out to me on LinkedIn.
