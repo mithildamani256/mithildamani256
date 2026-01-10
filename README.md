@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Mithil Damani
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎓 Computer Sceince student at the University of Waterloo.
 
 💼 Previously Software Engineer Intern at StackAdapt, WealthyPlanet etc.
